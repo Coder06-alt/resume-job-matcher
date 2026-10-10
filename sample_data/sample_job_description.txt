@@ -1,0 +1,14 @@
+About the role
+We are looking for a Machine Learning Intern to join our Trust and Safety team.
+You will build NLP models for hate speech detection and misinformation detection,
+working with big data and millions of samples.
+
+Requirements
+- Strong programming in Python, plus Java or C++
+- Experience with machine learning, deep learning, and scikit-learn
+- Hands-on NLP: text classification, TF-IDF, word embeddings, transformers
+- Familiarity with TensorFlow or PyTorch
+- Experience with SQL, pandas, numpy
+- Knowledge of Spark or MapReduce is a plus
+- Understanding of class imbalance, precision and recall, model evaluation
+- Git, Docker, and Linux basics

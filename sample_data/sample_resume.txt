@@ -1,0 +1,19 @@
+Jane Doe
+jane.doe@example.com | +91 98765 43210
+
+Education
+B.Tech in Computer Science, GPA 8.1/10, 2023 - 2027
+
+Skills
+Python, C++, Java, SQL, pandas, numpy, scikit-learn, TF-IDF, cosine similarity,
+regression, model evaluation, matplotlib, seaborn, Git, Linux, Streamlit
+
+Projects
+Student Grade Predictor: Built a regression model with scikit-learn and pandas,
+improved R2 by 12% through feature engineering and evaluated using RMSE.
+Text Classifier: Developed a TF-IDF and logistic regression classifier for news
+categories reaching 91% accuracy on 20000 documents.
+
+Experience
+Software Engineering Intern: Developed 5 web applications, reduced load time by 30%,
+and mentored 3 junior developers.
